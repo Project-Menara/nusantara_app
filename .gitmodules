@@ -7,3 +7,6 @@
 [submodule "nusantara_mobile"]
 	path = nusantara_mobile
 	url = https://github.com/Project-Menara/nusantara_mobile.git
+[submodule "nusantara_web"]
+	path = nusantara_web
+	url = https://github.com/Project-Menara/nusantara_web.git
